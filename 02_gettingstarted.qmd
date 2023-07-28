@@ -1,0 +1,26 @@
+---
+title: "Getting Started"
+---
+
+Your first five steps in this course are to:
+
+1. Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+    - Section 1 of PQHS 431, CRSP 431 and MPHP 431 are identical.
+2. Review the [main course website](https://thomaselove.github.io/431-2022/), and be sure to visit the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), and skim through the Course Syllabus (this document.)
+3. Obtain the [texts required][Required Texts] for the course - see below for details.
+4. Complete the [Welcome to 431 survey](https://bit.ly/431-2022-welcome-survey) - see below for details.
+5. Get started [installing the software][Required Software] you'll need for the course.
+
+## What Do I Need To Purchase?
+
+You need to buy David Spiegelhalter's **The Art of Statistics**. You can purchase any of the available versions (hard-cover, paperback or e-reader) online or in your local bookstore for about $20.
+
+Everything else (including several other required texts) will be free, and is described in detail in the [Required Texts section][Required Texts] of this Syllabus.
+
+## Welcome to 431 Survey 
+
+Please fill out the [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) at https://bit.ly/431-2022-welcome-survey to help us get to know you a little better.
+
+- Note that you must **log into Google via your CWRU account** in order to access the survey.
+- The survey should take 15-20 minutes to complete, and we encourage you to complete it as soon as you can.
+  

@@ -1,0 +1,31 @@
+---
+title: "Welcome to 431!"
+---
+
+## DRAFT: This is just a starting point with 2022 information. {-}
+
+This is the Fall 2023 syllabus for PQHS / CRSP / MPHP 431: Statistical Methods in Biological & Medical Sciences at Case Western Reserve University with Professor Thomas E. Love.
+
+```{r cwrulogo1-fig, echo = FALSE, fig.align = "center", out.width = '80%'}
+knitr::include_graphics("images/431_foot2.PNG")
+```
+
+# Welcome to 431!
+
+## Working With This Syllabus
+
+1. This syllabus includes **fifteen** sections. Use the table of contents on the left side of the screen to navigate. Make sure you look at each section.
+2. At the top of the syllabus, click the icons to:
+    - toggle the table of contents sidebar,
+    - search the syllabus, 
+    - change the size, font or color scheme of the page, and 
+    - download a PDF version of the entire syllabus.
+3. The syllabus will be updated occasionally, with the most recent update time listed above.
+
+## Who, When and Where?
+
+- The course instructor is [Professor Thomas E. Love][Professor Love]. 
+  - Email him at **Thomas dot Love at case dot edu** if you have any questions before class.
+- There are eight [teaching assistants][Teaching Assistants] helping with the course this semester.
+- The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM Eastern Time, in Room E321-323 in Robbins Hall, within CWRU's School of Medicine, starting on 2022-08-30.
+

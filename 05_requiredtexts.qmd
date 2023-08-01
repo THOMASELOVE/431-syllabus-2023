@@ -1,16 +1,14 @@
----
-title: "Required Texts"
----
+# Required Texts {#sec-requiredtexts}
 
 ## Course Notes
 
-Professor Love maintains a set of Course Notes, titled **Data Science for Biological, Medical and Health Research: Notes for 431.** Professor Love revises the Notes every year, and so they appear in pieces as the semester progresses.
+Professor Love maintains a set of [Course Notes](https://thomaselove.github.io/431-notes/). Professor Love revises the Notes every year, and so they appear in pieces as the semester progresses.
 
 Although these Notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give 431 students a set of common materials on which to draw during the course, providing a series of examples using R to work through issues that are likely to come up during the semester, and in later work. 
 
 In addition, **slides** and video recordings from each of Professor Love's lectures, plus other in-class materials will be posted for your use throughout the semester.
 
-Once class begins, you'll be able to access all materials (including the Course Notes) through the main course website at https://thomaselove.github.io/431-2022/.
+Once class begins, you'll be able to access all materials (including the Course Notes) through the main course website at https://thomaselove.github.io/431-2023/.
 
 ## Buy This Book!
 
@@ -18,15 +16,16 @@ During the course, we will read David Spiegelhalter's **The Art of Statistics**,
 
 - [Dr. Spiegelhalter's website](http://www.statslab.cam.ac.uk/~david/) has lots of useful information.
 - The [book's website](https://dspiegel29.github.io/ArtofStatistics/) contains R code, corrections and other materials.
-- You are welcome to read this book before class starts, if you'd like to get a jump on things, but that's not necessary: we'll link readings to the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html).
+- You are welcome to read this book before class starts, if you'd like to get a jump on things, but that's not necessary: we'll link readings to the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html).
 
 ## Other Books to Download
 
-There are three additional **free** books that you will definitely need to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.
+There are two additional **free** books that you will definitely need to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.
 
-1. [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Cetinkaya-Rundel and Johanna Hardin.
-2. [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham (first edition). Note that the second edition (work in progress) may be better for our purposes, and is found at https://r4ds.hadley.nz/.
-3. [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) by Frank E. Harrell Jr. The related set of YouTube videos can be found [here](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA).
+1. [R for Data Science](https://r4ds.hadley.nz/) (2nd edition) by Hadley Wickham, Mine Cetinkaya-Rundel and Garrett Grolemund.
+2. [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) by Frank E. Harrell Jr. The related set of YouTube videos can be found [here](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA).
+
+In addition, the book [OpenIntro Statistics](https://www.openintro.org/book/os/) by David Diez, Mine Cetinkaya-Rundel, Christopher Barr and OpenIntro is also available for free, and has been very useful to some students in past versions of this course. I recommend it heartily.
 
 ## Key Articles and Posts
 
@@ -36,7 +35,7 @@ While I will recommend dozens, perhaps hundreds of articles, blog posts and the 
     + [Finally, a Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/), from fivethirtyeight.com
     + [Reading academic (scientific) papers](https://github.com/jtleek/readingpapers),
     + [Writing your first academic paper](https://github.com/jtleek/firstpaper)
-    + [Write papers like a modern scientist](https://simplystatistics.org/2016/04/21/writing/)
+    + [Write papers like a modern scientist](https://simplystatistics.org/posts/2016-04-21-writing/)
     + [How to Share Data for Collaboration](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375987) by Shannon E. Ellis and Jeffrey T. Leek in *The American Statistician*, 2018 Special Issue on Data Science, or you can [read the PeerJ preprint version here](https://peerj.com/preprints/3139/).
 2. [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) by Karl W. Broman and Kara H. Woo in The American Statistician, 2018 Special Issue on Data Science, or you can [read the PeerJ preprint version](https://peerj.com/preprints/3183/).
     + The Ellis/Leek and Broman/Woo papers are part of the [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/) collection, which may be of interest.

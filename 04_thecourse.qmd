@@ -1,12 +1,10 @@
----
-title: "Course Description"
----
+# Course Description
 
 PQHS 431 (cross-listed as CRSP 431 and MPHP 431) is the first half of a two-semester sequence (with 432) focused on modern data analysis and advanced statistical modeling, with a practical bent and as little theory as possible. We emphasize the key roles of thinking hard, and well, about design and analysis in research. 
 
 The course is formally titled *Statistical Methods in Biological & Medical Sciences, Part 1.* A more accurate title is **Data Science for Biological, Medical or Health Research**.
 
-We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and R Markdown (and, in 432, Quarto) as tools to help make R work better, and help perform our research in rigorous and replicable ways.
+We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and Quarto as tools to help make R work better, and help perform our research in rigorous and replicable ways.
 
 ## Course Objectives
 
@@ -17,7 +15,7 @@ During the 431-432 sequence, students will:
 3. Gain sufficient background in the practical issues regarding linear and generalized linear models to give you a starting place for meaningful applied work, particularly in terms of making comparisons to address general types of statistical and analytic questions (exploratory, predictive, inferential, and causal, in particular.)
 4. Learn about the importance of replicable research, and develop facility and practice in open source tools for doing it.
 5. Complete a series of assignments (labs, projects and quizzes) designed to help you demonstrate what you've learned. 
-6. Program ("Code") in R sufficiently to accomplish the tasks above, with enough self-sufficiency afterwards to be able to debug and use new R tools without substantial troubleshooting help. What separates "doing data science" from "doing data analysis" is programming.
+6. Using R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using [Quarto](https://quarto.org/) to document the work in a replicable way.
 
 This is **NOT** a course in mathematical statistics or statistical inference. It's far more applied than that.
 
@@ -35,17 +33,17 @@ This is **NOT** a course in mathematical statistics or statistical inference. It
     - Model choice, including variable selection, shrinkage and model uncertainty.
     - Dealing with categorical predictors and interactions meaningfully.
     - Causal inference using regression: controlling for covariates meaningfully.
-7. Using R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using [R Markdown](https://rmarkdown.rstudio.com/) (and [Quarto](https://quarto.org/)) to document the work in a replicable way.
+7. Using R and RStudio to make all of the things above happen; with particular emphasis on doing replicable research and using [Quarto](https://quarto.org/) to document the work in a replicable way.
 
 ## 431 Course Outline & Format
 
-The main group sessions for the 431 course will include 24 in-person lecture sessions (plus two "working day" sessions to be explained later in the term) led by Professor Love, to be held on Tuesdays and Thursdays from 1:00 to 2:15 PM in E321-323 in the Robbins Building at the CWRU School of Medicine. 
+The main group sessions for the 431 course will include 24 in-person lecture sessions led by Professor Love, to be held on Tuesdays and Thursdays from 1:00 to 2:15 PM in E321-323 in the Robbins Building at the CWRU School of Medicine. 
 
-- The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides additional detail on specific sessions, and links to materials used in those sessions, including slides.
+- The [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html) provides additional detail on specific sessions, and links to materials used in those sessions, including slides.
 
 ### Part A: R and Exploring Data
 
-Classes 1-12 (roughly) focus on this material.
+Classes 1-10 (roughly) focus on this material.
 
 - Exploratory Data Analysis
     - Descriptive Numerical and Graphical Summaries
@@ -60,7 +58,7 @@ Classes 1-12 (roughly) focus on this material.
 
 ### Part B: Making Comparisons
 
-Classes 13-17 (roughly) focus on this material.
+Classes 11-16 (roughly) focus on this material.
 
 - Estimation and Inference for Means and Proportions (especially)
     - Confidence Intervals
@@ -71,7 +69,7 @@ Classes 13-17 (roughly) focus on this material.
 
 ### Part C: Linear Models 
 
-Classes 18-24 (roughly) focus on this material.
+Classes 17-24 (roughly) focus on this material.
 
 - Estimation and Inference using Ordinary Least Squares
     - Simple and Multivariate Linear Regression Models
@@ -89,16 +87,16 @@ What do we expect you to know already before you start the course? **Not much**.
 Useful prior experience includes training/experience in statistics, coding/programming and biology/biomedical science. We expect most people will have some experience in one or two of these areas, but very few will have all three.
 
 - Some students have lots of prior training in statistics. But there are many students in the class with no statistical training at all that they use regularly. We assume only that everyone knows what an average is, and has some sense of why statistics might be useful to them in their chosen field.  
-- Some students have lots of prior coding and programming experience, including experience with R. Some have never written a line of code in their life.  We assume only that everyone is willing to learn how to do modern work with data, and that means writing computer code, but that some people will be starting from nothing.
+- Some students have lots of prior coding and programming experience, including experience with R and/or Quarto. Some have never written a line of code in their life.  We assume only that everyone is willing to learn how to do modern work with data, and that means writing computer code, but that some people will be starting from nothing.
 - Some students have lots of prior experience with biological and biomedical science, and know a lot of useful things in those areas which relate directly to our work. Others have zero experience in this area, and will learn a lot from their colleagues. We assume only that everyone is willing to learn, and to put in some effort to do so.
 
 People succeed in this course with a wide range of backgrounds and a common interest in using data effectively in research related to biology, health or medicine. There will be multiple people in the class who are years away from their last statistics class. We expect the majority of students will have no prior experience using R, or any meaningful recollection of using statistical software. 
 
-The pace can be brisk at times, but all CWRU students who feel up to it are welcome, regardless of their field of study or prior experience. Section 1 (Professor Love's section) is specifically geared towards students in programs under the auspices of the Department of Population & Quantitative Health Sciences, as well as students who intend to continue on and take 432 this Spring. Section 2 (with Professor Zhang) is more appropriate for most other students.
+The pace can be brisk at times, but all CWRU students who feel up to it are welcome, regardless of their field of study or prior experience. Section 100 (Professor Love's section) is specifically geared towards students in programs under the auspices of the Department of Population & Quantitative Health Sciences, as well as students who intend to continue on and take 432 this Spring. Section 101 (with Professor Zhang) is more appropriate for most other students.
 
 ## Motivations for our Approach
 
-Professor Love has a lot of thoughts on this issue and you'll hear about them through the semester, but you may prefer to hear from other people on the subject. So here are a few references that have guided our recent thinking.
+Professor Love has a lot of thoughts on this issue and you'll hear about them through the semester, but you may prefer to hear from other people on the subject. So here are a few references that guided our thinking in developing the course.
 
 - [A Guide to Teaching Data Science](https://arxiv.org/abs/1612.07140) by Stephanie C. Hicks, Rafael A. Irizarry (pdf)
     - ... our (case-study) approach (in a graduate-level, introductory data science course) teaches students three key skills needed to succeed in data science, which we refer to as creating, connecting, and computing.

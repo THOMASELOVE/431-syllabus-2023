@@ -1,6 +1,4 @@
----
-title: "Professor Love"
----
+# Professor Love {#sec-professorlove}
 
 ```{r Lovepic-fig, echo = FALSE, out.width = '30%'}
 knitr::include_graphics("images/Thomas_Love.png")
@@ -26,7 +24,7 @@ In research, I use statistical methods to look at questions in health policy and
 
 If you want to see a [pretty complete list of my publications](https://www.ncbi.nlm.nih.gov/myncbi/thomas.love.1/bibliography/public/), knock yourself out. 
 
-I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, one a recent graduate of the University of Pittsburgh, and the younger a junior at Columbia University. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater). My next show begins performances in late October, and I'll let you know more about that in class.
+I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, one a recent graduate of the University of Pittsburgh, and the younger a junior at Columbia University. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater). I'll let you know if I'm in any shows this Fall.
 
 ## Email 
 
@@ -49,5 +47,4 @@ Professor Love is available for the 10 minutes before and approximately 20 minut
     - He prefers his given name to be written "Thomas" as opposed to "Tom".
     - Most of his friends and colleagues call him "Tom". You are welcome to do so, outside of class time, if it makes you comfortable.
 - At Github, he is [THOMASELOVE](https://github.com/THOMASELOVE).
-    - The Github repository [for this syllabus is here](https://github.com/THOMASELOVE/431-syllabus-2022).
-- Professor Love's professional Twitter handle is [thomaselove](https://twitter.com/thomaselove).
+    - The Github repository [for this syllabus is here](https://github.com/THOMASELOVE/431-syllabus-2023).

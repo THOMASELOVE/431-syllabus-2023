@@ -1,23 +1,21 @@
----
-title: "Required Software"
----
+# Required Software {#sec-requiredsoftware}
 
 The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
 
 You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course. 
 
 - There will be many people in the course for whom R is a new experience. I assume no prior R work in the course. You will know a fair amount of R (and some other things, too) after taking the course, though.
-- We'll also be using the [R Markdown](https://rmarkdown.rstudio.com/) tool within RStudio. R Markdown will be taught in 431 (we'll bump up to using [Quarto](https://quarto.org/) for some of what we do in 432, as well), and can be used to generate reproducible reports that appear as .html files, PDF files or Word documents, among other things.
-- For some people, working with R is the best part of the class, and the part that they're most excited about. 
+- We'll be using [Quarto](https://quarto.org/) for most of our work, as well, which can be used to generate reproducible reports that appear as .html websites, PDF files or Word documents, among other things.
+- For some people, working with R and Quarto is the best part of the class, and the part that they're most excited about. 
 - For others, it's a real source of anxiety. We understand and encourage patience. There will definitely be some pain, but our experience is that things are much smoother for most people by early October than they appear to be in August. 
 
 ## R and RStudio
 
 You will do all of your analysis with the open source (and free!) [programming language R](https://cloud.r-project.org). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. Think of R as an engine and RStudio as a car dashboard. R handles all the calculations and the actual statistics, while RStudio provides a nice interface for running R code.
 
-R is free, but it can sometimes be a pain to install and configure. Information about getting R and RStudio on your computer will be found below in the [Getting the Software][Getting the Software] section of this Syllabus, and this material is also available on the [main course web site](https://thomaselove.github.io/431-2022/).
+R is free, but it can sometimes be a pain to install and configure. Information about getting R and RStudio on your computer is provided below, and [also on our main website](https://thomaselove.github.io/431-2023/software.html).
 
-Learning R can be difficult at first - it's like learning a new language, just like Spanish, French, or Chinese. Hadley Wickham-the chief scientist at RStudio and the author of some amazing R packages you'll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+Learning R can be difficult at first - it's like learning a new language, just like Spanish, French, or Chinese. Hadley Wickham-the chief scientist at Posit (makers of Rstudio) and the author of some amazing R packages you'll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
 
 > It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
 
@@ -42,24 +40,45 @@ You will need access to a computer to do your work for this class, not just an i
 
 ### What will I need for 431?
 
-These instructions are also available on [the Software page](https://thomaselove.github.io/431-2022/software.html) at our main course website: https://thomaselove.github.io/431-2022/.
+These instructions are also available on [the Software page](https://thomaselove.github.io/431-2023/software.html) at our main course website: https://thomaselove.github.io/431-2023/.
 
-1. Download and install **the latest version of R** (version **4.2.1 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
+## Installing R and R Studio
+
+The steps you need to complete are:
+
+1. Download and install **the latest version of R** (version **4.3.1 or later**) from [https://cran.case.edu/](https://cran.case.edu/) or, if you prefer, from [https://cloud.r-project.org/](https://cloud.r-project.org/) which automatically chooses a fast, nearby mirror for you.
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
-2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2022.07.1+554 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
-    - If you prefer, you can instead install [RStudio's Preview Version](https://www.rstudio.com/products/rstudio/download/preview/) to get the very latest features, but that requires you to update your setup more frequently, and occasionally deal with some additional troubleshooting. 
-    - Professor Love will stick with the regular open source version in his work for 431.
+2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2023.06.1+524 or later**) by visiting [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/). 
+
+## Installing R Packages and Data/Code for 431
+
+After you've completed steps 1 and 2 above, move on to these tasks:
+
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
-    - Details on installing key packages we will use in 431 are found at https://github.com/THOMASELOVE/431-packages, and that's also where you'll find a list of packages you'll need in the 431 course.
-4. Download data and code (functions) we've developed specifically for 431 at https://github.com/THOMASELOVE/431-data.
+    - Visit [https://github.com/THOMASELOVE/431-packages](https://github.com/THOMASELOVE/431-packages) for details and the list of packages we'll be using in 431.
+4. Download **data and code** (functions) we've developed specifically for 431 at [https://github.com/THOMASELOVE/431-data](https://github.com/THOMASELOVE/431-data).
     - Follow the instructions you'll find there.
 
-### Need Installation Help?
+## Need Installation Help?
 
 If you need more help, you might look at [this terrific resource for Installing R and RStudio](https://stat545.com/install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
 
 - If you're having trouble with installation before our first class, don't worry too much. The TAs and Professor Love will be available to help once the class gets going.
 - Once the class starts, if you're having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!
+
+## Updating Your R Packages
+
+Every once in a while, it's a good idea to update your R packages. To do so, 
+
+1. Go to the **Packages** tab on the right side of your RStudio screen, and click on **Update**.
+2. This will bring up a dialog box. I usually click **Select All**, then click **Install Updates**. 
+
+- A popup box may appear, asking "Do you want to install from sources the packages which need compilation?" to which I usually answer **No**. A **Yes** response leads to a slower installation, but can solve problems if you still have them after updating.
+- This may take a few minutes. As long as you're seeing activity in the Console window, things are progressing.
+- Eventually, you'll get a message that "The downloaded source packages are in ..." with a directory name. That's the sign that the updating is done.
+- Updating packages is something you'll do occasionally throughout the semester, mostly when a problem happens.
+
+3.  Finally, choose **File ... Quit Session** from the top menu, and accept or deny (I usually deny) RStudio's request to save your workspace. Then close RStudio, and re-open it if you want to do some work. 
 
 ## Why do we teach R in 431-432?
 
@@ -84,4 +103,4 @@ If you're interested in getting started with the tools you'll be using in 431 be
 
 Our goal is to get everyone well into the intermediate level by December. Some people will get there in September, for others it will take longer. But you can do this, and we'll be there to help you.
 
-In addition, there are many, many online resources to help you with working in R, and we'll point you to many of the best of them during the semester. 
+In addition, there are many, many online resources to help you with working in R and in [Quarto](https://quarto.org/), and we'll point you to some of the best of them during the semester. 

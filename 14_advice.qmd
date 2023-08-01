@@ -1,6 +1,4 @@
----
-title: "General Advice"
----
+# General Advice
 
 My most important piece of general advice to people is to be kind. That's not always the thing I do as well as I'd like.
 

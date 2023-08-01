@@ -1,6 +1,4 @@
----
-title: "General Policies"
----
+# General Policies
 
 All Case Western Reserve University policies apply to this class, including those summarized below. To the extent that those policies are unclear, I would regard an appropriate code of conduct as mirroring  [this one from the R Consortium](https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md).
 

@@ -50,9 +50,9 @@ Thanks to the bonus, scores up to 110 / 100 in Class Participation are technical
 
 ## Grading Labs
 
-The seven Main Labs are graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. Grading for Lab X will be discussed as part of the Lab X instructions.
+The seven Main Labs are graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. Grading for Lab X will be discussed as part of the Lab X instructions, but completion of Lab X can only help your grade in the course.
 
-For each of the main 7 Labs, we publish a detailed answer sketch (by Noon the day after the deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work. 
+For each of the main 7 Labs, we publish a detailed answer sketch 48 hours after the Lab's submission deadline. Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. Along with the grade, on-time labs will receive modest feedback about the work. 
 
 All Labs should be turned in by the deadline specified on the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html). In this class, it is far better to turn in timely, but only partially complete work than nothing at all. We don't give extensions on Labs. Instead, we use the following grading policy.
 

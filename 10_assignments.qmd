@@ -52,9 +52,9 @@ Lab assignments are submitted through [Canvas](https://canvas.case.edu). The lin
 
 Each lab is associated with a deadline. Late work is permitted, but penalized (see the Grading section below, and the [431-Labs page](https://github.com/THOMASELOVE/431-labs-2023) for more details.)
 
-### Lab X and Lab Y
+### Lab X 
 
-There will be two (optional) bonus assignments called Lab X and Lab Y. Lab X involves building a website for yourself, and Lab Y involves some reflections on useful materials. See their instructions for more details.
+There will be an (optional) bonus assignment called Lab X, which involves building a website for yourself. See the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2023) for more details.
 
 ### A few tips for Early Lab Work
 

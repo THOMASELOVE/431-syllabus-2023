@@ -46,7 +46,7 @@ The Department of Population and Quantitative Health Sciences provides a detaile
     + [3] We're using $\alpha = 0.05$.  
     + Don't use more than one of these expressions.
 15. Again, don't use *p*-values in most settings, but if you must, refer to all *p*-values that are less than 0.001 or perhaps less than 0.0001 as $p < 0.001$, rather than, for instance, $p = 0.00000001$ or, worse yet, $p = 0$. In a similar vein, write all $p$-values that exceed 0.99 as $p > 0.99$ instead of, for instance, $p  = 1$. 
-16. To the extent possible, don't use `computer-ese` to label variables, plots or tables.  R and Markdown allow you to change the labels on graphs and tables to meaningful things -- do so.  Use meaningful abbreviations, as necessary, explaining what they mean on the first usage.
+16. To the extent possible, don't use `computer-ese` to label variables, plots or tables.  R and Quarto allow you to change the labels on graphs and tables to meaningful things -- do so.  Use meaningful abbreviations, as necessary, explaining what they mean on the first usage.
 17. When in doubt, err on the side of clarity. Clear thinking leads to clear writing.
 
 

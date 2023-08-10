@@ -58,8 +58,8 @@ All Labs should be turned in by the deadline specified on the [Course Calendar](
 
 - To receive full credit on a Lab, it must be received on Canvas no later than 59 minutes after the posted deadline. (This allows for small issues with uploading to Canvas to occur without penalty.)
 - Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
-- Labs turned in more than 12 but less than 72 hours after the deadline will lose 25% of available points.
-- No extensions to Lab deadlines will be permitted this semester. Labs turned in more than 72 hours after the deadline will receive no credit.
+- Labs turned in more than 12 but less than 48 hours after the deadline will lose 30% of available points.
+- No extensions to Lab deadlines will be permitted this semester. Labs turned in more than 48 hours after the deadline will receive no credit, since by then the Lab Sketch will be posted.
 
 Your lowest lab score (out of the first seven) over the course of the semester will be dropped before we calculate your overall lab grade. 
 
@@ -72,7 +72,7 @@ Clarification of concerns related to potential typographical or other errors in 
 
 Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting a request through a Google Form he will provide to you.
 
-- On [the course's Labs page](https://github.com/THOMASELOVE/431-labs-2023), we include a section about Lab Regrade Requests. There, you'll find a link to [this Google Form](https://bit.ly/431-2023-lab-regrade-requests) (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
+- On [the course's Labs page](https://github.com/THOMASELOVE/431-labs-2023), we include a section about Lab Regrade Requests. There, you'll find a link to the Lab Regrade Request Form (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
     - All forms must be submitted by the deadline in December specified on the Course Calendar.
     - If you wish to dispute a grade, just fill out the form at any time before the deadline in December. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
     - Disputing a grade on a homework with a teaching assistant is pointless. 
@@ -87,7 +87,7 @@ The main advantage of this system is that it saves all of us the hassle of haggl
 
 ## Grading the Quizzes
 
-Each quiz will be graded solely by Professor Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, usually within 48 hours of the quiz deadline. 
+Each quiz will be graded solely by Professor Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, within 48 hours of the quiz deadline. 
 
 In calculating your quiz average for your course grade, Professor Love weights your stronger Quiz performance at 60% and your other Quiz at 40%.
 

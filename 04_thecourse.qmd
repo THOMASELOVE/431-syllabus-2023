@@ -54,7 +54,9 @@ Classes 1-10 (roughly) focus on this material.
 - Exploring Data with the Tidyverse, Getting Up To Speed with R
     - Visualizing Data with `ggplot2`
     - Data Transformation and `dplyr`
-    - Using scripts and projects, Building Code
+- Using Quarto
+    - Building Quarto documents within R Projects
+    - Building R code using Quarto, and publishing/sharing results
 
 ### Part B: Making Comparisons
 

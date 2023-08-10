@@ -20,12 +20,20 @@ During the course, we will read David Spiegelhalter's **The Art of Statistics**,
 
 ## Other Books to Download
 
-There are two additional **free** books that you will definitely need to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.
+There are three additional **free** books that you will definitely need to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.
 
 1. [R for Data Science](https://r4ds.hadley.nz/) (2nd edition) by Hadley Wickham, Mine Cetinkaya-Rundel and Garrett Grolemund.
-2. [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) by Frank E. Harrell Jr. The related set of YouTube videos can be found [here](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA).
+  - Solutions to the exercises in R4DS can be found [here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/) and may be very helpful to you.
+2. [R Graphics Cookbook](https://r-graphics.org/) (2nd edition) by Winston Chang.
+3. [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) by Frank E. Harrell Jr. 
+  - The related set of YouTube videos can be found [here](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA).
 
-In addition, the book [OpenIntro Statistics](https://www.openintro.org/book/os/) by David Diez, Mine Cetinkaya-Rundel, Christopher Barr and OpenIntro is also available for free, and has been very useful to some students in past versions of this course. I recommend it heartily.
+There are many other free R books available online, which may be helpful to you. Here are a few that some students in past versions of this course have liked.
+
+- [OpenIntro Statistics](https://www.openintro.org/book/os/) by David Diez, Mine Cetinkaya-Rundel, Christopher Barr and OpenIntro.
+- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/) by Rafael A. Irizary
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+- [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
 
 ## Key Articles and Posts
 

@@ -40,23 +40,23 @@ You will need access to a computer to do your work for this class, not just an i
 
 ### What will I need for 431?
 
-These instructions are also available on [the Software page](https://thomaselove.github.io/431-2023/software.html) at our main course website: https://thomaselove.github.io/431-2023/.
+These instructions are also available on [the Software page](https://thomaselove.github.io/431-2023/software.html) at our main course website: <https://thomaselove.github.io/431-2023/>.
 
 ## Installing R and R Studio
 
 The steps you need to complete are:
 
-1. Download and install **the latest version of R** (version **4.3.1 or later**) from [https://cran.case.edu/](https://cran.case.edu/) or, if you prefer, from [https://cloud.r-project.org/](https://cloud.r-project.org/) which automatically chooses a fast, nearby mirror for you.
-    - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
-2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2023.06.1+524 or later**) by visiting [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/). 
+1. Download and install **the latest version of R** (version **4.3.1 or later**) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/>, which automatically chooses a fast, nearby mirror for you.
+    - If you have a pre-existing installation of R and/or RStudio, you will need to re-install both to get current.
+2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2023.06.1+524 or later**) by visiting <https://posit.co/download/rstudio-desktop/>. 
 
 ## Installing R Packages and Data/Code for 431
 
 After you've completed steps 1 and 2 above, move on to these tasks:
 
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
-    - Visit [https://github.com/THOMASELOVE/431-packages](https://github.com/THOMASELOVE/431-packages) for details and the list of packages we'll be using in 431.
-4. Download **data and code** (functions) we've developed specifically for 431 at [https://github.com/THOMASELOVE/431-data](https://github.com/THOMASELOVE/431-data).
+    - Visit <https://github.com/THOMASELOVE/431-packages> for details and the list of packages we'll be using in 431.
+4. Download **data and code** (functions) we've developed specifically for 431 at <https://github.com/THOMASELOVE/431-data>.
     - Follow the instructions you'll find there.
 
 ## Need Installation Help?

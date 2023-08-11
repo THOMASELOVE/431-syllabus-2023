@@ -97,6 +97,6 @@ Dr. Love prepared a document containing five old quiz questions, as well as an a
 During the semester, you will have two projects to complete. 
 
 - [Project A](https://thomaselove.github.io/431-projectA-2023/) anticipates you using materials from the first 15 classes, working with a data set Dr. Love provides to you.
-- Project B anticipates you using materials from the entire term, working with a data set you identify yourself.
+- [Project B](https://thomaselove.github.io/431-projectB-2023/) anticipates you using materials from the entire term, working with a data set you identify yourself.
 
 The [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html) provides deadlines for all Project elements, and each project will have a special website of its own which will provide full directions. 

@@ -100,3 +100,13 @@ During the semester, you will have two projects to complete.
 - [Project B](https://thomaselove.github.io/431-projectB-2023/) anticipates you using materials from the entire term, working with a data set you identify yourself.
 
 The [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html) provides deadlines for all Project elements, and each project will have a special website of its own which will provide full directions. 
+
+## Why Two Projects? 
+
+The main reason is that I can't figure out a way to get you to think about all of the things I hope you'll learn from this course in a single Project. Another important reason is that I want you to be able to make mistakes during the semester without worrying about it too much, and having two projects spreads out this learning a bit.
+
+1. I set different tasks for Project A and for Project B, allowing us to touch on a wider fraction of the things I hope you'll learn in 431. 
+2. I give much more guidance in Project A than in Project B.
+3. We have to evaluate each of your projects quickly, and there are many students in the class. Knowing the data set you'll be working with helps us manage this.
+4. Having a broad range of activities to evaluate helps reduce the cost of a mistake on any one of them, so that we can build on what you do well.
+5. All of Project A can be done using materials discussed in Classes 1-15.

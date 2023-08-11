@@ -54,7 +54,7 @@ Each lab is associated with a deadline. Late work is permitted, but penalized (s
 
 ### Lab X 
 
-There will be an (optional) bonus assignment called Lab X, which involves building a website for yourself. See the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2023) for more details.
+There will be an (optional) bonus assignment called Lab X, which involves building a website for yourself. See the [Lab X instructions](https://thomaselove.github.io/431-labX/) for more details.
 
 ### A few tips for Early Lab Work
 

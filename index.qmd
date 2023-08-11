@@ -1,6 +1,6 @@
 # Welcome to 431!
 
-## This is a nearly complete draft, still being revised. {-}
+## This is a nearly complete draft. {-}
 
 This is the Fall 2023 syllabus for PQHS / CRSP / MPHP 431: Statistical Methods in Biological & Medical Sciences at Case Western Reserve University with Professor Thomas E. Love.
 

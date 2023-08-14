@@ -30,12 +30,12 @@ We aim to have video recordings available the day after each class session.
 
 It is our intent that all students regardless of their background and perspective be well-served by this class. Further, we intend to present material whose content is respectful of diversity (gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture) and deliver it in a way that respects these differences as well. We expect that all students, instructors and guests will help foster an atmosphere of respect, trust and safety in the classroom.  
 
-If you have suggestions for how to make the class content or environment more inclusive, or have specific incidents to report, please reach out to Professor Love directly. If you are not comfortable reaching out to him, please feel encouraged to reach out to someone else, such as the School of Medicine Graduate Education Office (som-geo@case.edu) or the Office of Inclusion, Diversity and Equal Opportunity (OIDEO) (oideo@case.edu). More information on University policy and resources are available on OIDEO’s website at https://case.edu/diversity/.
+If you have suggestions for how to make the class content or environment more inclusive, or have specific incidents to report, please reach out to Professor Love directly. If you are not comfortable reaching out to him, please feel encouraged to reach out to someone else, such as the School of Medicine Graduate Education Office (som-geo@case.edu) or the Office of Inclusion, Diversity and Equal Opportunity (OIDEO) (oideo@case.edu). More information on University policy and resources are available on OIDEO’s website at <https://case.edu/diversity/>.
 
 
 ## Disability Resources
 
-> In accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must first register with the Disability Resources office. Please contact their office to register at 216.368.5230 or visit their website at https://case.edu/studentlife/disability/ to get more information on how to begin the process. 
+> In accordance with federal law, if you have a documented disability, you may be eligible to request accommodations from Disability Resources. In order to be considered for accommodations you must first register with the Disability Resources office. Please contact their office to register at 216.368.5230 or visit their website at <https://case.edu/studentlife/disability/> to get more information on how to begin the process. 
 
 Once you have registered with Disability Resources, they will contact Professor Love to discuss any necessary arrangements. Please feel encouraged to get in touch with Professor Love directly to discuss any specific concerns you have.
 
@@ -56,13 +56,21 @@ Here is the official policy of the University on Academic Integrity.
 > Any violation of the University’s Code of Ethics will not be tolerated. All forms of academic dishonesty including cheating, plagiarism, misrepresentation, and obstruction are violations of academic integrity standards and will result in a minimum penalty of receiving a zero for the assignment, the potential for failing the entire course. Cheating includes copying from another's work, falsifying problem solutions or laboratory reports, or using unauthorized sources, notes or computer programs. Plagiarism includes the presentation, without proper attribution, of another's words or ideas from printed or electronic sources. It is also plagiarism to submit, without the instructor's consent, an assignment in one class previously submitted in another. Misrepresentation includes forgery of official academic documents, the presentation of altered or falsified documents or testimony to a university office or official, taking an exam for another student, or lying about personal circumstances to postpone tests or assignments. Obstruction occurs when a student engages in unreasonable conduct that interferes with another's ability to conduct scholarly activity. Destroying a student's computer file, stealing a student's notebook, and stealing a book on reserve in the library are examples of obstruction. In addition, the incident will be reported to the Dean of Undergraduate Studies and Academic Review Board for undergraduates or Senior Associate Dean of Graduate Studies, for Graduate Students. 
 
 The CWRU Statement of Ethics for graduate students can be found here: 
-http://case.edu/gradstudies/about-the-school/policies-procedures/
+http://case.edu/gradstudies/about-the-school/policies-procedures/.
+
+The University's [Academic Integrity Policy](https://case.edu/studentlife/ugadvisingsupport/academic-policies/academic-integrity) is also worth reading.
 
 ## Plagiarism
 
 > Professor Love, and the faculty of the Department of Population & Quantitative Health Sciences expect and require original writing for all assignments given. Submitting plagiarized work for an academic requirement is a violation of the academic integrity standards set forth by the University. Plagiarism is the representation of another's work or ideas as one's own; it includes the unacknowledged, word-for-word use and/or paraphrasing of another person's work, and/or the inappropriate unacknowledged use of another person's ideas. Submitting substantially the same work to satisfy requirements for one course that has been submitted in satisfaction of requirements for another course, without permission of the instructor of the course for which the work is being submitted, is also prohibited.
 
 If you have any questions about this policy as it applies to 431, please direct them to Professor Love.
+
+## Use of AI is Not Permitted without Express Written Consent from Dr. Love
+
+You must obtain written permission from Dr. Love before using AI composition software (such as ChatGPT) for assignments in this course. Using these tools without my permission puts your academic integrity at risk.
+
+More on AI and Academic Writing can be found at <https://case.edu/artsci/writing/resources/ai-academic-writing>
 
 ## University Resources / Student Support
 

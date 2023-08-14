@@ -1,19 +1,10 @@
 # Teaching Assistants {#sec-teachingassistants}
 
-Most of this year's stellar group of teaching assistants have been in your shoes - they've taken the course in the past, and they enjoyed it enough to come back for more. They are volunteering their precious time and energy to help make the course happen, and we couldn't be more delighted to welcome you to the course. All office hours and all teaching assistant work will be done remotely.
+Almost all of this year's stellar group of teaching assistants have been in your shoes - they've taken the course in the past, and they enjoyed it enough to come back for more. They are volunteering their precious time and energy to help make the course happen, and we couldn't be more delighted to welcome you to the course. All office hours and all teaching assistant work will be done remotely.
 
 There is a lot to learn in this class. Don't suffer in silence - talk to us! As mentioned earlier, **you shouldn't spend more than 15 minutes struggling with anything in this class without asking for help.**
 
-Visit the Getting Help Chapter (@sec-gettinghelp) of this Syllabus for more details.
-
-The Fall 2023 Teaching Assistants for 431 are:
-
-- Ali Elsharkawi, MS student in Clinical Research
-- Chenyu Liu, PhD student in Epidemiology \& Biostatistics
-- Alex Olejko, PhD student in Psychology
-- Lindsay Petrenchik, MS graduate in Epidemiology \& Biostatistics
-- Monika Strah, PhD student in Clinical Translational Science
-- Ria Tilve, MPH graduate in Population Health Research, and current MD student
+Visit Getting Help (@sec-gettinghelp) of this Syllabus for more details.
 
 ## TA office hours
 
@@ -28,4 +19,50 @@ Professor Love will also hold "office hours" before and after each class to the 
 
 ## Getting To Know The TAs
 
-Details to come.
+The Fall 2023 Teaching Assistants for 431 are:
+
+TA Name | For more, visit | Current Roles and CWRU Experiences
+--------------: | ------------- | ------------------------------------------
+Ali Elsharkawi | @sec-ali | third year MS student in Clinical Research 
+Chenyu Liu | @sec-chenyu | first year PhD student in Epidemiology \& Biostatistics
+Alex Olejko | @sec-alex | fifth year PhD candidate in the Developmental, Cognitive, and Affective Sciences program in the Department of Psychological Sciences
+Lindsay Petrenchik | @sec-lindsay | PGY1 Pharmacy Resident at University Hospital Samaritan Medical Center and Clinical Instructor of Pharmacy Practice at Northeast Ohio Medical University and MS graduate
+Monika Strah | @sec-monika | PhD student in Clinical Translational Science and MS graduate
+Ria Tilve | @sec-ria | first year MD student and MPH graduate
+
+### Ali Elsharkawi {#sec-ali}
+
+![Ali Elsharkawi](images/Ali_Elsharkawi.png)
+
+Ali Elsharkawi is in his third year in the M.S program in Clinical Research. He completed his bachelor’s in medicine, and fellowship in Electrophysiology at Metrohealth in Cleveland. For his research interest, he studied the outcome of atrial fibrillation ablation procedures. Ali took 431 and 432 two years ago and he is applying the skills he learned in his research projects. Ali enjoys spending time with his family, playing music, watching soccer, and traveling.
+
+### Chenyu Liu {#sec-chenyu}
+
+![Chenyu Liu](images/Chenyu_Liu.png){width=40%}
+
+Chenyu Liu is a first-year Ph.D. student in Epidemiology and Biostatistics within the Department of Population & Quantitative Health Sciences. Chenyu completed her undergraduate studies in statistics at Wuhan University of Technology in China and her master's program in statistics at Case. Her current research interest is Bayesian Statistics, multi-omics data integration, and proteomics analysis. Outside of her Ph.D. life, Chenyu spends her time traveling, cooking, and watching movies.
+
+### Alex Olejko {#sec-alex}
+
+![Alex Olejko](images/Alex_Olejko.png){width=40%}
+
+Alex is a 5th year PhD candidate in the Developmental, Cognitive, and Affective Sciences program in the Department of Psychological Sciences. He completed my undergraduate education at Ohio State, and earned my Master’s degree from CWRU in 2022. His research mainly resides in the field of behavior genetics, where he focuses on polygenic influences on behavioral outcomes. These outcomes mostly encompass educational and health phenotypes in the early to mid-twenties. Alex grew up outside of Cleveland and am a fervent Cleveland sports fan. He loves going to Guardians games and have already been to 20 this year (and counting). Some of his other favorite past-times include building Lego, mixology, exercise, and (mainly) single-player video games.
+
+### Lindsay Petrenchik {#sec-lindsay}
+
+![Lindsay Petrenchik](images/Lindsay_Petrenchik.png){width=40%}
+
+Lindsay Petrenchik is a PGY1 Pharmacy Resident at University Hospital Samaritan Medical Center and a Clinical Instructor of Pharmacy Practice at Northeast Ohio Medical University. Prior to residency, Lindsay worked at Novartis for two years where she evaluated Patient Reported Outcomes (PROs) in oncology clinical trials. She is excited to share with you how she has used 431/432 super-power skills daily in both pharmaceutical industry and residency research projects. Come to her TA sessions and you will have a blast learning R and statistical methods!
+
+### Monika Strah {#sec-monika}
+
+![Monika Strah](images/Monika_Strah.png){width=40%}
+
+Monika Strah is a Ph.D. student in Clinical Translational Science at CWRU and recently
+completed the Biostatistics M.S. program. She is looking forward to returning as a TA for PQHS 431/432 and also enjoyed TAing for PQHS 453 this summer. Monika’s past research includes mathematical approaches to questions in population genetics and human evolution and is presently studying dietary factors associated with lung cancer risk and multiple sclerosis related fatigue management strategies. Monika enjoys reading, hiking and is a member of the National Ski Patrol.
+
+### Ria Tilve {#sec-ria}
+
+![Ria Tilve](images/Ria_Tilve.png){width=40%}
+
+Ria Tilve is a first year medical student at CWRU. After completing her bachelor's in Biochemistry, she obtained her MPH in Population Health Research at CWRU last spring. Her current research focuses on musculoskeletal health and biomedical imaging. Ria took 431 and 432 during the 2021-2022 school year, and she is applying those skills in her research projects. Outside of studying, Ria enjoys spending time with her family, running, watching sports, and exploring new places.

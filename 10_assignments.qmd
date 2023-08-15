@@ -15,6 +15,10 @@ All deadlines are posted as part of the [Course Calendar](https://thomaselove.gi
 
 - On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions **up to 12 hours before** the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
 
+## Using Artificial Intelligence Tools
+
+See @sec-ai for details on this course's policies on using AI composition software (such as ChatGPT) for assignments in this course.
+
 ## Minute Papers
 
 During the semester, there are **10** Minute Papers scheduled. In this class, a Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. To complete the Minute Paper, you'll need to log into Google with your CWRU account. The [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) uses a similar format, but is more extensive than a typical Minute Paper. 

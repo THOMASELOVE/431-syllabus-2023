@@ -66,9 +66,9 @@ The University's [Academic Integrity Policy](https://case.edu/studentlife/ugadvi
 
 If you have any questions about this policy as it applies to 431, please direct them to Professor Love.
 
-## Use of AI is Not Permitted without Express Written Consent from Dr. Love
+## Use of AI is Not Permitted without Express Written Consent from Dr. Love {#sec-ai}
 
-You must obtain written permission from Dr. Love before using AI composition software (such as ChatGPT) for assignments in this course. Using these tools without my permission puts your academic integrity at risk.
+You must obtain written permission from Dr. Love before using AI composition software (such as ChatGPT) for assignments in this course. Using these tools without my permission puts your academic integrity at risk. Intellectual honesty is central to the academic experience at CWRU. Our Academic Integrity Policy prohibits submitting AI-generated text as one’s own, just as it prohibits claiming authorship for text that was originally produced by another person.
 
 More on AI and Academic Writing can be found at <https://case.edu/artsci/writing/resources/ai-academic-writing>
 

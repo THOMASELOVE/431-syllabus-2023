@@ -27,6 +27,7 @@ Ali Elsharkawi | @sec-ali | third year MS student in Clinical Research
 Chenyu Liu | @sec-chenyu | first year PhD student in Epidemiology \& Biostatistics
 Alex Olejko | @sec-alex | fifth year PhD candidate in the Developmental, Cognitive, and Affective Sciences program in the Department of Psychological Sciences
 Lindsay Petrenchik | @sec-lindsay | PGY1 Pharmacy Resident at University Hospital Samaritan Medical Center and Clinical Instructor of Pharmacy Practice at Northeast Ohio Medical University and MS graduate
+Miza Salim Hammoud | @sec-miza | MS student in Clinical Research and Postdoc Fellow at Cleveland Clinic
 Monika Strah | @sec-monika | PhD student in Clinical Translational Science and MS graduate
 Ria Tilve | @sec-ria | first year MD student and MPH graduate
 
@@ -53,6 +54,10 @@ Alex is a 5th year PhD candidate in the Developmental, Cognitive, and Affective 
 ![Lindsay Petrenchik](images/Lindsay_Petrenchik.png){width=40%}
 
 Lindsay Petrenchik is a PGY1 Pharmacy Resident at University Hospital Samaritan Medical Center and a Clinical Instructor of Pharmacy Practice at Northeast Ohio Medical University. Prior to residency, Lindsay worked at Novartis for two years where she evaluated Patient Reported Outcomes (PROs) in oncology clinical trials. She is excited to share with you how she has used 431/432 super-power skills daily in both pharmaceutical industry and residency research projects. Come to her TA sessions and you will have a blast learning R and statistical methods!
+
+### Miza Salim Hammoud {#sec-miza}
+
+Information to come.
 
 ### Monika Strah {#sec-monika}
 

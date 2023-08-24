@@ -11,6 +11,8 @@ By the first class, this page will house links to everything we will provide, in
 - [Data (and Code)](https://github.com/THOMASELOVE/431-data) for the course's assignments, presentations, and notes
 - Our [Campuswire discussion forum](https://thomaselove.github.io/431-2023/campuswire.html) for questions and answers about R and the course
 - Our [Canvas page](https://canvas.case.edu) for turning in assignments and downloading recordings.
+    - Each class session is recorded via Zoom, and the recordings are then made available for students to view using Canvas. Students attending remotely can usually watch the Zoom as it happens (through Canvas), but not interact with the class during the session.
+    - Students are expected to attend *at least 20* of the 26 classes during the semester in person.
 
 ## Contact Information
 

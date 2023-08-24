@@ -6,7 +6,7 @@ Any concerns or questions regarding these general policies, the teaching assista
 
 ## Attendance
 
-Things happen, and people occasionally cannot make it to class in person. For 431, we expect all students to attend **at least** 19 of the 24 sessions in person.
+Things happen, and people occasionally cannot make it to class in person. For 431, we expect all students to attend **at least** 20 of the 26 sessions in person.
 
 - If you need to miss a class session, or even two, just review the materials and move on, and please feel encouraged to ask for help.
 - If you must miss **more than two classes** in a row, then it is your responsibility to email Professor Love as soon as possible to let him know. 
@@ -20,9 +20,9 @@ Enrolled students and teaching assistants are the only people permitted to atten
 
 ## Recordings 
 
-We aim to have video recordings available the day after each class session.
+We aim to have video recordings available on [Canvas](https://canvas.case.edu/) after each class session.
 
-- "Live" Zoom attendance will not (generally) be possible.
+- "Live" Zoom attendance can be a problem, in that remote students will not be able to interact with the class.
 - Technical problems may occur during the semester with the recordings.
 - You should assume that anything you say in class will be recorded.
   

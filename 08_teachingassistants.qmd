@@ -30,6 +30,7 @@ Lindsay Petrenchik | @sec-lindsay | PGY1 Pharmacy Resident at University Hospita
 Miza Salim Hammoud | @sec-miza | MS student in Clinical Research and Postdoc Fellow at Cleveland Clinic
 Monika Strah | @sec-monika | PhD student in Clinical Translational Science and MS graduate
 Ria Tilve | @sec-ria | first year MD student and MPH graduate
+Hongke Wu | @sec-hongke | first year MS student in Biostatistics
 
 ### Ali Elsharkawi {#sec-ali}
 
@@ -73,3 +74,7 @@ completed the Biostatistics M.S. program. She is looking forward to returning as
 ![Ria Tilve](images/Ria_Tilve.png){width=40%}
 
 Ria Tilve is a first year medical student at CWRU. After completing her bachelor's in Biochemistry, she obtained her MPH in Population Health Research at CWRU last spring. Her current research focuses on musculoskeletal health and biomedical imaging. Ria took 431 and 432 during the 2021-2022 school year, and she is applying those skills in her research projects. Outside of studying, Ria enjoys spending time with her family, running, watching sports, and exploring new places.
+
+### Hongke Wu {#sec-hongke}
+
+Information to come.

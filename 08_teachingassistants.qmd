@@ -77,4 +77,6 @@ Ria Tilve is a first year medical student at CWRU. After completing her bachelor
 
 ### Hongke Wu {#sec-hongke}
 
-Information to come.
+![Hongke Wu](images/Hongke_Wu.png){width=40%}
+
+Hongke Wu is currently in her first year of the MS program in Biostatistics at CWRU. She holds an MD degree from China and has completed her MPH in Epidemiology at Tulane University. With a background in producing research outcomes and analyzing both population-based and clinical research data, she is particularly interested in exploring the relationship between nutrition and cancer. Her goal is to contribute to the field of nutrition epidemiology and cancer research while also advocating for public health. Outside of her studies, Hongke enjoys playing tennis, hiking, and playing the piano.
